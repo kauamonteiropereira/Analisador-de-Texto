@@ -1,0 +1,1 @@
+Essa é um mensagem de texto para o arquivo "AnalisadorDeTexto.java"
