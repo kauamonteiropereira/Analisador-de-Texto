@@ -1,9 +1,10 @@
 # 📝 Analisador de Texto
  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Status](https://img.shields.io/badge/status-em%20andamento-yellow?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/licen%C3%A7a-MIT-blue?style=for-the-badge)
 ![Nível](https://img.shields.io/badge/n%C3%ADvel-intermedi%C3%A1rio-orange?style=for-the-badge)
+
  
 Programa em Java que lê um arquivo de texto (`texto.txt`) e exibe estatísticas sobre ele, como total de linhas, palavras e caracteres.
  
