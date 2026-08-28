@@ -4,7 +4,6 @@
 ![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/licen%C3%A7a-MIT-blue?style=for-the-badge)
 ![Nível](https://img.shields.io/badge/n%C3%ADvel-intermedi%C3%A1rio-orange?style=for-the-badge)
-
  
 Programa em Java que lê um arquivo de texto (`texto.txt`) e exibe estatísticas sobre ele: total de linhas, palavras, caracteres e a palavra mais frequente.
  
@@ -94,8 +93,8 @@ O programa mostra:
 ```
 Total de linhas: 1
 Total de palavras: 16
-Total de caracteres: 89
-Palavra mais frequente: "roeu" (2 vezes)
+Total de caracteres: 93
+Palavra mais frequente: "três" (4 vezes)
 ```
  
 ## 🧠 Conceitos praticados
