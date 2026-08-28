@@ -87,7 +87,7 @@ Certifique-se de que existe um arquivo `texto.txt` na mesma pasta, com qualquer 
  
 Com o texto:
 ```
-O rato roeu a roupa do rei de Roma. A rainha, com raiva, roeu o resto da roupa rasgada.
+Três tigres tristes para três pratos de trigo, três pratos de trigo para três tigres tristes.
 ```
  
 O programa mostra:
